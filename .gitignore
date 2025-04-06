@@ -1,0 +1,13 @@
+# Python bytecode (kompiliuoti failai)
+__pycache__/
+*.py[cod]
+
+# Virtuali aplinka
+venv/
+
+# PyCharm projekto nustatymai
+.idea/
+
+# Sisteminiai failai (Windows, macOS)
+.DS_Store
+Thumbs.db
