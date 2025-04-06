@@ -4,7 +4,7 @@
 "Mano statybos" – tai pirmojo asmens žaidimas, sukurtas su [Ursina](https://www.ursinaengine.org/) žaidimų varikliu. Šis projektas skirtas CodeAcademy Python kurso baigiamajam darbui.
 
 Šis žaidimas lavina erdvinius - vizualinius, girdimuosius suvokimus bei teksto skaitymo ir suvokimo įgūdžius.
-<img src="assets/screenshot.png" width="500"/>
+![Žaidimo GIF](assets/gameplay.gif)
 
 ---
 
