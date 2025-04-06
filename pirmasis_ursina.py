@@ -72,7 +72,7 @@ def toggle_sound():
     place_sound.volume = 1.0 if sound_enabled else 0
     move_sound.volume = 1.0 if sound_enabled else 0
 
-def play_task_audio():
+def play_task_audio():gfit
     if not sound_enabled:
         return
     pygame.mixer.init()
