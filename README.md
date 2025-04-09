@@ -11,6 +11,7 @@
 ---
 
 🎮 Funkcionalumas
+
 Pirmojo asmens valdymas (judėjimas, šuolis, pelės žvilgsnis).
 
 Kaladėlių statymas ir šalinimas (kairysis ir dešinysis pelės mygtukai).
