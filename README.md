@@ -29,7 +29,10 @@ Fonas: žydras dangus, žemė padengta žole.
 Šis žaidimas leidžia statyti bokštus iš kaladėlių, pasirinkus norimą spalvą. Čia pateikiamas žaidimo valdymo paaiškinimas:
 
 
-#Pagrindiniai valdymo klavišai:
+
+
+
+# Pagrindiniai valdymo klavišai:
 
 Kairysis pelės klavišas – padėti pasirinktą kaladėlę.
 
