@@ -32,6 +32,7 @@ Fonas: žydras dangus, žemė padengta žole.
 
 🎮 Žaidimo valdymas – „Mano statybos“
 🔹 Judėjimas ir kamera
+
 W, A, S, D – vaikščiojimas pirmojo asmens režimu.
 
 Pelė – žiūrėjimo kryptis.
