@@ -30,30 +30,48 @@ Fonas: žydras dangus, žemė padengta žole.
 
 
 
+🎮 Žaidimo valdymas – „Mano statybos“
+🔹 Judėjimas ir kamera
+W, A, S, D – vaikščiojimas pirmojo asmens režimu.
+
+Pelė – žiūrėjimo kryptis.
+
+Space – šuolis į viršų.
+
+🔹 Kaladėlių valdymas
+🖱️ Kairysis pelės mygtukas – padėti pasirinktą kaladėlę.
+
+🖱️ Dešinysis pelės mygtukas – nuimti kaladėlę.
+
+🔹 Spalvos pasirinkimas
+⬅️ Kairė rodyklė – pasirinkti ankstesnę spalvą.
+
+➡️ Dešinė rodyklė – pasirinkti kitą spalvą.
+
+✳️ Pasirinkus spalvą, kranas juda į tos spalvos poziciją su animacija ir garsu.
+
+🔹 Garsai
+🔊 Kylanti rodyklė (↑) – įjungti garsą.
+
+🔇 Nusileidžianti rodyklė (↓) – išjungti garsą.
+
+🔹 Užduotis
+U – parodyti užduoties langą su informacija:
+
+Reikia pastatyti bokštą iš 6 kaladėlių.
+Naudok raudoną, geltoną ir žalią spalvas.
+
+T – tikrinti užduotį:
+
+Jei teisingai – rodomas pozityvus pranešimas („Šaunu!“, „Jėga!“).
+
+Jei klaida – rodomas pranešimas, ką pataisyti:
+
+Trūksta spalvų.
+
+Per daug arba per mažai kaladėlių.
 
 
-# Pagrindiniai valdymo klavišai:
-
-Kairysis pelės klavišas – padėti pasirinktą kaladėlę.
-
-Dešinysis pelės klavišas – nuimti kaladėlę.
-
-Kairė rodyklė – pasirinkti ankstesnę spalvą.
-
-Dešinė rodyklė – pasirinkti kitą spalvą.
-
-U klavišas – parodyti užduoties langą ir užduotį (reikia pastatyti bokštą iš 6 kaladėlių, spalvos: raudona, geltona, žalia).
-
-T klavišas – patikrinti užduotį, jei pastatyta teisingai (6 kaladėlės su tinkamomis spalvomis).
-
-Kylanti rodyklė – įjungti garsą.
-
-Nusileidžianti rodyklė – išjungti garsą.
-
-Papildoma informacija:
-Pasirinkus spalvą, kranas juda į pasirinktą poziciją su animacija.
-
-Jeigu užduotis atlikta teisingai, ekrane pasirodys žinutė su teigiamu atsakymu. Jei klaida, bus rodomas klaidos pranešimas su informacija, ką reikia pataisyti (pvz., trūksta spalvų arba kaladėlių).
 
 ---
 
